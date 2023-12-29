@@ -11,5 +11,7 @@ In this notebook I explore:
 2. The math behind each of the gates and their activation functions.
 3. Using a LSTM for a stock predictor. 
 
+![GOOGL Price prediction](GOOGL%20price%20prediction.png)
+
 Learning about LSTMs was a fun addition to my education portfolio.
 
